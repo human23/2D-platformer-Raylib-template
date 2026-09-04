@@ -3,4 +3,4 @@ Raylib basic 2D platformer with physics such as gravity and basic ground collisi
 
 ![image](image.png)
 
-![gif](moving.gif)
+![gif](moving1.gif)
